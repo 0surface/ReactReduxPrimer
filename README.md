@@ -1,3 +1,5 @@
+# A React Web App Primer Excercise
+
 # Starter Kit for [Building Applications in React and Redux](http://www.pluralsight.com/author/cory-house) on Pluralsight
 
 ## Get Started
